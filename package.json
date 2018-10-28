@@ -1,0 +1,28 @@
+{
+  "name": "seneca-mesh-dns-discovery",
+  "version": "1.0.0",
+  "description": "Custom function to discover base node in Seneca Mesh using DNS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duyanton/seneca-mesh-dns-discovery.git"
+  },
+  "keywords": [
+    "seneca"
+  ],
+  "author": "duyanton <duyanton@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duyanton/seneca-mesh-dns-discovery/issues"
+  },
+  "homepage": "https://github.com/duyanton/seneca-mesh-dns-discovery#readme",
+  "dependencies": {
+    "dns": "^0.2.2",
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
